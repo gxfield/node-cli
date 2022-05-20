@@ -1,6 +1,7 @@
 {
   "name": "gregxfield-greeter",
   "version": "0.0.1",
+  "description": "A sample CLI program written in TypeScript & NodeJS",
   "bin": {
     "greeter": "./build/index.js"
   },
